@@ -35,6 +35,4 @@ Abra o terminal e instale as dependências:
 pip install pandas scikit-learn jupyter
 ```
 
-Abra o terminal e instale as dependências:
-```bash
-pip install pandas scikit-learn jupyter
+
